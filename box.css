@@ -1,0 +1,17 @@
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    t
+}
+.box:haver{
+    transform:rotate(90);
+}
+p{
+    font-size: 36px;
+}
